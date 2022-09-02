@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83ef7050.css",
+    "main.js": "/static/js/main.229ba013.js",
+    "static/media/malibu.jpg": "/static/media/malibu.229ac57420acb74edb3e.jpg",
+    "static/media/gentra.jpg": "/static/media/gentra.6676326962f3983b7cee.jpg",
+    "static/media/Instagram-Logo.png": "/static/media/Instagram-Logo.a2e43df91aed96c38070.png",
+    "static/media/yamach.jpg": "/static/media/yamach.55ec23b15b821c9e6a05.jpg",
+    "static/media/tiktok.jpg": "/static/media/tiktok.bfa7aeaefda1cbcc5fc5.jpg",
+    "static/media/download.jpg": "/static/media/download.e7e224cae984321565ec.jpg",
+    "static/media/png.monster-258.webp": "/static/media/png.monster-258.43e2c19722bca99dec76.webp",
+    "static/media/rang1.webp": "/static/media/rang1.6fc3f4dd9a298b3e745c.webp",
+    "index.html": "/index.html",
+    "main.83ef7050.css.map": "/static/css/main.83ef7050.css.map",
+    "main.229ba013.js.map": "/static/js/main.229ba013.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83ef7050.css",
+    "static/js/main.229ba013.js"
+  ]
+}
